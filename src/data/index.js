@@ -3,7 +3,7 @@ export const data = {
     {
       to: "/link",
       img: "../../images/banner/Banner_2.webp",
-      title: "First slide label",
+      title: "First lide label",
       description: "Nulla vitae elit libero, a pharetra augue mollis interdum",
     },
     {
